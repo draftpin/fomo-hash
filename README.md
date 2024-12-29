@@ -5,7 +5,7 @@ Sometimes (at night time / low energy) your miner stops working! To make fomohas
 
 Also helps in case when bot is overloaded and you cant press the start button - this script will do it automatically as soon as possible
 
-## ![Result](result.gif)
+## ![Result](result.png)
 
 ## How to run
 - Install extension in your browser [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be)
