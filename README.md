@@ -5,6 +5,13 @@ Sometimes (at night time / low energy) your miner stops working! To make fomohas
 
 Also helps in case when bot is overloaded and you cant press the start button - this script will do it automatically as soon as possible
 
+## Last Update
+Now miner starts working on 100% energy and stops if energy is below 5% - saving CPU !
+
++ Autoclosing modal
+
+All checks are once per minute
+
 ## ![Result](result.png)
 
 ## How to run
