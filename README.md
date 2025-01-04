@@ -12,12 +12,12 @@ Now miner starts working on 100% energy and stops if energy is below 5% - saving
 
 All checks are once per minute
 
-## ![Result](result.png)
-
 ## How to run
 - Install extension in your browser [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be)
-- To enable **autogame** install [this script](https://github.com/draftpin/fomo-hash/raw/main/fomohash-automine.user.js)
+- To enable **automine** install [this script](https://github.com/draftpin/fomo-hash/raw/main/fomohash-automine.user.js)
 - Open [Bot Fomo Hash](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dfomohash_bot%26app%3Dstart%26startapp%3Dref_LAIDOCYP) and run the game
+
+## ![Result](result.png)
 
 # Bypass Mobile Check:
 https://github.com/draftpin/mobile-check-bypass
